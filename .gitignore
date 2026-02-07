@@ -1,0 +1,9 @@
+# --- CRITICAL: VIRTUAL ENVIRONMENT & PYTHON COMPILED FILES ---
+venv/
+__pycache__/
+*.pyc
+
+# --- IGNORE INPUTS/OUTPUTS (Too Large) ---
+inputs/
+outputs/*.mp4
+outputs/*.mov
