@@ -54,7 +54,6 @@ def process_video():
                 # 11: L-Hip, 13: L-Knee, 15: L-Ankle
                 # (Right side is 6, 8, 10, 12, 14, 16)
                 
-                # Example: Let's calculate the FRONT KNEE angle (assuming Left-handed batsman or Right-handed?)
                 # We'll calculate Left Knee for now (Hip-Knee-Ankle) indices: 11, 13, 15
                 
                 # Get coordinates and confidence
