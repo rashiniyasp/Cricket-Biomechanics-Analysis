@@ -75,7 +75,7 @@ Since ground truth (human-labeled) data was unavailable to calculate gold-standa
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [YOUR GITHUB URL HERE]
+    git clone https://github.com/rashiniyasp
     cd Cricket_Biomechanics_Analysis
     ```
 
@@ -91,7 +91,7 @@ Since ground truth (human-labeled) data was unavailable to calculate gold-standa
 
 3.  **Run the Analysis Pipeline:**
     ```bash
-    # Note: Requires the video file in the inputs/ directory
+    # Note: Requires the video file in the inputs
     python main.py
     ```
 
